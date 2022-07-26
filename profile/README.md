@@ -10,4 +10,4 @@ The repositories in this organziation can be used to develop extensions for [AP 
 ### Quick Start
 See [Cameca.Extensions.Templates](https://github.com/CamecaAPT/cameca-extensions-templates#camecaextensionstemplates) for information regarding installing requirements and templates.
 
-See [Cameca.Extensions.Templates](https://github.com/CamecaAPT/cameca-extensions-templates#camecaextensionstemplates) for information and examples of basic custom analsyis implementations. 
+See [Cameca.Customanalysis.Utilities](https://github.com/CamecaAPT/cameca-customanalysis-utilities#camecacustomanalysisutilities) for information and examples of basic custom analsyis implementations. 
