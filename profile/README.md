@@ -13,3 +13,6 @@ See the [Quick Start Guide](https://github.com/CamecaAPT/cameca-customanalysis-i
 See [Cameca.Extensions.Templates](https://github.com/CamecaAPT/cameca-extensions-templates#camecaextensionstemplates) for information regarding installing requirements and templates.
 
 See [Cameca.Customanalysis.Utilities](https://github.com/CamecaAPT/cameca-customanalysis-utilities#camecacustomanalysisutilities) for information and examples of basic custom analsyis implementations. 
+
+### Wiki
+See the [Wiki](https://github.com/CamecaAPT/cameca-customanalysis-interface/wiki) for information and documentation
