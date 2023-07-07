@@ -3,10 +3,6 @@
 ## AP Suite Extensions
 The repositories in this organziation can be used to develop extensions for [AP Suite](https://www.cameca.com/service/software/apsuite).
 
-### Requirements
-- AP Suite v6.3+
-- Visual Studio 2022
-
 ### Quick Start
 See the [Quick Start Guide](https://github.com/CamecaAPT/cameca-customanalysis-interface/wiki/Quick-Start) for a walkthough on getting started creating your first AP Suite extension.
 
@@ -16,3 +12,7 @@ See [Cameca.Customanalysis.Utilities](https://github.com/CamecaAPT/cameca-custom
 
 ### Wiki
 See the [Wiki](https://github.com/CamecaAPT/cameca-customanalysis-interface/wiki) for information and documentation
+
+### Requirements
+- AP Suite v6.3+
+- Visual Studio 2022
